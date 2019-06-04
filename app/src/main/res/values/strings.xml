@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simula Login</string>
+    <!-- Strings da aplicação -->
+    <string name="titulo_login">Login</string>
+    <string name="rotulo_usuario">Usuário</string>
+    <string name="rotulo_senha">Senha</string>
+    <string name="rotulo_botao_entrar">Entrar</string>
+    <string name="login_sucesso">Login feito com sucesso!!!</string>
+    <string name="login_error">Usuário ou senha inválido!!!</string>
+</resources>
